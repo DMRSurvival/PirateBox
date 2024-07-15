@@ -5,6 +5,7 @@ __________.__               __        __________
  |    |   |  ||  | \// __ \|  | \  ___/|    |   (  <_> >    <
  |____|   |__||__|  (____  /__|  \___  >______  /\____/__/\_ \
                          \/          \/       \/            \/
-```
+
 Website: www.dmrsurvival.com                  PirateBox Version: 2.0
 Build date: 17-07-2024                        Be open  --  Share freely!
+```
