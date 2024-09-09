@@ -15,4 +15,4 @@ PirateBox creates offline wireless networks designed for anonymous file sharing,
 PirateBox was created by David Darts and the lead developer is Matthias Strubel. Aaron Williamson from the Software Freedom Law Center provided advice on the project and Christiane Ruetten originally ported PirateBox to OpenWrt. The project is actively supported by developers and testers all over the world.
 
 ## License
-PirateBox is licensed under the GNU General Public License [(GPLv3)](https://www.gnu.org/licenses/gpl-3.0.en.html "GNU General Public License").
+PirateBox is licensed under the GNU General Public License ([GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html "GNU General Public License")).
